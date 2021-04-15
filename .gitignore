@@ -118,3 +118,6 @@ dist
 .DS_Store
 .vscode
 testing.db3
+
+# added .env file to not push it to our git repo
+.env
